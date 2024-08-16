@@ -48,7 +48,7 @@ This repository contains a Jupyter Notebook that demonstrates the process of loa
 - The data is inserted into the MySQL database in corresponding tables.
 
 ## Authors
-This process was documented and executed by [Your Name].
+This process was documented and executed by [Mohamed Ashiq A].
 
 ## License
 This project is licensed under the MIT License.
